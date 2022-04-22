@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My portfolio</string>
+    <string name="bt_action">うらなう</string>
+    <string name="bt_action2">go</string>
+    <string name="introduce">はじめまして。大学生エンジニアのたつやと申します。\n　現在、独学でAndroidアプリ開発の勉強中です。今までに、大学の授業でのpython、progateを用いて、HTML＆CSS、Rubyなどの言語を学んできました。現在のAndroidアプリはKotlinで行っております。</string>
+    <string name="skill1">技術/経験年数/スキル</string>
+    <string name="skill2">Kotlin/1年/★4</string>
+    <string name="skill3">HTML＆css/1年/★3</string>
+    <string name="skill4">Ruby/1年/★2</string>
+    <string name="work1">https://github.com/renkon98/portfolio/upload/main</string>
+    <string name="work2">Myポートフォリオ\ngithub↓</string>
+    <string name="contact1">nhahaha239@gmail.com</string>
+    <string name="contact2">My Eメールアドレス↓</string>
+</resources>
